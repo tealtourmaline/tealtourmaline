@@ -27,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
