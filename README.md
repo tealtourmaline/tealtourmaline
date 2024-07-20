@@ -31,16 +31,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.twitch.tv/tourmalinecat" target="_blank">
+  <a href="https://www.twitch.tv/gemstonenano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitch logo"  />
   </a>
-  <a href="https://discord.com/users/tourmalinecat" target="_blank">
+  <a href="https://discord.com/users/gemstonenano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
-  <a href="https://twitter.com/tourmalinecat" target="_blank">
+  <a href="https://twitter.com/gemstonenano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
   </a>
-  <a href="https://ko-fi.com/tourmalinecat" target="_blank">
+  <a href="https://ko-fi.com/gemstonenano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="ko-fi logo"  />
   </a>
 </div>
