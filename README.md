@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/30/e9/7c/30e97c0614cb92f0a469855f93530227.gif"  />
+  <img height="200" src="https://cdn3.emoji.gg/emojis/2531-rena-hau.gif"  />
 </div>
 
 ###
